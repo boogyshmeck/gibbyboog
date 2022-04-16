@@ -1,0 +1,51 @@
+.oogwayisdope {
+  background-color: #fcffe6;
+}
+
+
+.headerfooter {
+ background-color: rgba(142, 232, 212, 0.9);
+
+}
+
+.embedvid {
+    height: 480px;
+    width: 720px;
+    display: block;
+   /*position: absolute;
+    top: 0; right: 0;
+    bottom: 0; left: 0;*/
+    margin: auto;
+}
+
+
+
+ .resizetableau {
+    position: relative;
+    z-index: 1;
+    margin-top: -3rem;
+    max-width: 50vw;
+  }
+
+.putflexonit {
+  display: flex;
+}
+.marginparty {
+  margin-right: auto;
+}
+
+.sidepaddinglikeonotherone {
+  padding: 3rem;
+}
+.roundedgeguy {
+  border-radius: 0.25rem;
+}
+
+.tableautitles{
+    color: azure;
+}
+
+.resizegunpicture{
+    height: 50;
+    width: 50;
+}
